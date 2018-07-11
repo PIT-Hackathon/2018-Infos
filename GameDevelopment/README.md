@@ -1,16 +1,28 @@
 # Game Development
 Das Thema 'Game Development beim [PIT-Hackathon 2018](https://github.com/PIT-Hackathon/2018-Infos) umfasst die erste Phase der Spieleentwicklung, von der Erstellung eines Konzepts bis zum lauffähigen Prototypen. Dabei werdet ihr diverse Rolle wie Game Designer, Game Developer, Visual Artist, Audio Engineer uvm. einnehmen und zusammen im Team euer Spiel entwickeln. Dabei bieten wir verschiedene Einstiegsmöglichkeiten in das Thema an.
 
+---
+
 ## Einstiegsmöglichkeiten
 
-1. Für Einsteiger
-   
+#### Für Einsteiger
+Entwicklung von Spieleprototypen mit der Scriptsprache Lua. Dies ermöglich einen unkomplizierten Einstieg in die Programmierung von Computerspielen. Hierzu werden wir euch eine eine Reihe bekannter Games (Pong, Flappy Bird, etc) im SourceCode an die Hand geben, worauf ihr eure eigenen Prototypen entwicklen könnt und den grundlegenden Aufbau von Computerspielen erfahren könnt.
 
+#### Fortgeschrittene
+Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 
-alter Text
+---
 
-## Was ist ein Web Game?
-Ein Web Game ist ein im Browser lauffähiges Spiel und kann ohne Installation auf diversen Geräten (PC, Handy, usw.) gespielt werden. Bei Bedarf lässt sich das Spiel auch in eine Desktop Applikation [verpacken](https://electron.atom.io). Trotz Browser können die Spiele auf die Besonderheiten der Endgeräte reagieren und so z.B. den Neigungssensor im Handy als Lenkrad in das Spiel integrieren.
+## Themengebiete
+Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für diesen Hackathon die Bereiche :
+
+#### Augmented Reality    
+Augmented Reality, das projizieren von computererzeugten Inhalten in die reale Welt könnte sich als ein sehr interessantes Anwendungsgebiet für Spiele und andere Anwendungen. Nicht zuletzt durch Spiele wie PokemonGo etc ist dieses Thema in aller Munde. Wir laden euch ein, euch in diesem Bereich kreative zu betätigen. Vorbereitet haben wir uns dabei auf die Arbeit mit dem Vuforia-Plugin unter Unity  
+
+#### Multiplayer
+   Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins
+
+---
 
 ## In welchen Rollen werden wir an dem Spiel arbeiten?
 Ihr werdet eine oder mehrere der folgenden Rollen bei der Entwicklung einnehmen.
@@ -39,25 +51,38 @@ Der Producer steuert und überwacht den Erstellungsprozess des Spiels (auch Fina
 ### QA Tester
 Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
+---
+
 ## Gibt es ein Game Engine die ich verwenden kann?
-Es gibt [diverse Game Engines](https://github.com/showcases/javascript-game-engines) mit der ihr euer Web Game erstellen könnt. Um euch die Auswahl zu erleichtern haben wir  drei Engines ausgewählt und entsprechende Vorlagen vorbereitet.
+Es gibt [diverse Game Engines](https://github.com/showcases/javascript-game-engines) mit der ihr euer Game erstellen könnt. Um euch die Auswahl zu erleichtern haben wir verschiedene Engines ausgewählt und entsprechende Vorlagen vorbereitet.
+
+### Unity3d
+Unity3d ist eine kostenlose (für kleinere Projekte) ausgewachsene GameEngine. Unity3d ist eine der am meisten verwendeten GameEngine im professionellen und kommerziellen Einsatz. Mit Ihr lassen sich von einfachen Hobbyprojekten bis hin zu AAA-Titeln alle Arten von Spielen entwickeln. 
+
+##### Links
+- Unity [https://unity3d.com/de]
+- Unity lernen [https://unity3d.com/de/learn]
+
+### Lua
+Scriptsprache (auch) zum Entwickeln von Computerspielen. Sie bietet einen schnellen unkomplizierten Einstieg in die Spieleprogrammierung und eignet sich hervoragend zum entwickeln von Spiele-Prototypen. Dies ist ein sehr wichtiger Entwicklungsschritt in der Spieleentwicklung der nicht selten über den kommerziellen Erfolg eines Spiels entscheidet.
+
+##### Links
+
+- Harvard's Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
 
 ### Phaser
 Phaser ist eine Open Source 2D Game Engine um HTML 5 Spiele für den Browser als auch dem Desktop zu entwickeln.
 
 Weiter Infos: [http://phaser.io](http://phaser.io)
 
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017)
+
 
 ### Babylon.js
 Babylon.js ist eine Open Source 3D Game Engine. Die Engine wurde komplett in Typescript geschrieben.
 
 Weiter Infos: [https://www.babylonjs.com](https://www.babylonjs.com)
 
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017)
-- TypeScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript)
+
 
 ### Three.js
 Wer eine 3D-Anwendung wie ein Spiel ins Internet bringen will, kommt an WebGL kaum vorbei. Doch die Programmierung darin ist umständlich und fehleranfällig. Mit der JavaScript-Bibliothek Three.js gehts viel leichter.
@@ -65,37 +90,54 @@ WebGL bietet dem JavaScript-Entwickler eine Unmenge an Möglichkeiten – von de
 
 Weiter Infos: [https://threejs.org](https://threejs.org)
 
-Vorlagen auf GitHub:
-- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017)
 
-## Muss das Spiel im Browser (Web) laufen oder kann ich auch eine Desktop Applikation entwickeln?
-Nein, es muss kein Web Game sein. Du kann auch jede beliebig andere Plattform nutzen. 
 
-## Kann ich auch eine andere Sprache oder Tool (z.B. Unity) verwenden?
-Ja, du kannst jede andere Sprache oder Tool verwenden. Wir Mentoren haben uns jedoch speziell auf die Web Entwicklung mit Phaser & Co vorbereitet.
+---
+
 
 ## Womit entwickeln wir nachher?
 Wenn du unsere Vorlagen verwendest, dann benötigst du nur folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
 
-### 1. Code Editor 
-Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code [https://code.visualstudio.com](https://code.visualstudio.com)
+### 1. Git - Source Code Verwaltung 
+Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist eine Versionsverwaltung ein Muss und keine Option. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
+* Download: [https://git-scm.com](https://git-scm.com)
+* Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
+* MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
 
-### 2. Node.js und NPM
+### 2. Code Editor 
+Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
+* Download: [https://code.visualstudio.com](https://code.visualstudio.com)
+
+### 3. Unity3d
+* Download: [https://unity3d.com/de/unity/qa/lts-releases](Unity LTS 2017.4.6f1)
+
+### 4. Lua
+
+### 5. Node.js und NPM
 Node.js werden wir zum "kompilieren" oder besser [transpilieren](https://en.wikipedia.org/wiki/Source-to-source_compiler) des Source Codes verwenden. Dabei kommen Tools wie [Babel](https://babeljs.io) oder [Typescript](https://www.typescriptlang.org) zum Einsatz. Diese Tools und auch die notwendigen Bibliotheken für euer Projekt findet ihr in der [NPM Registry](https://www.npmjs.com).
 
 Download: [https://nodejs.org](https://nodejs.org)
 
-### 3. Webpack [Optional/Intern]
+### 6. Webpack [Optional/Intern]
 Webpack ist ein Module-Bundler und gleichzeitig Build-System. Das heißt es fasst mehrere Module (z.B. NPM Pakete) in zusammen und das Build-System konvertiert die Module in ein für den Browser verständliches Format. Dazu gibt es noch einen passenden Server mit dem Ihr euer Spiel lokal hosten könnt. Webpack überwacht dabei den gesamten Quellcode und erstelle automatisch eine neue Version sobald eine Änderung festgestellt wurde. 
 
 Weiter Infos findet ihr im Git Repository: [https://github.com/webpack/webpack](https://github.com/webpack/webpack)
 
-### 4. Git - Source Code Verwaltung [Optional]
-Da ihr im Team arbeiten werden, ich eine Source Code Verwaltung ideal. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
+---
 
-* Download: [https://git-scm.com](https://git-scm.com)
-* Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
-* MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
+## Vorlagen auf GitHub
+
+Vorlagen auf GitHub:
+- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Phaser-ES2017)
+
+Vorlagen auf GitHub:
+- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-ES2017)
+- TypeScript [https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript](https://github.com/PIT-Hackathon/2017-WebGame-Babylon-TypeScript)
+
+Vorlagen auf GitHub:
+- JavaScript [https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017](https://github.com/PIT-Hackathon/2017-WebGame-Three-ES2017)
+
+
 
 ## Tutorials & Anleitungen
 
