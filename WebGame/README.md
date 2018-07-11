@@ -1,5 +1,5 @@
 # Web Game
-Das Thema "Web" Game beim [PIT-Hackathon 2017](https://github.com/PIT-Hackathon/2017-Infos) umfasst die erste Phase der Spieleentwicklung, von der Erstellung eines Konzepts bis zum lauffähigen Prototypen. Dabei werdet ihr diverse Rolle wie Game Designer, Game Developer, Visual Artist, Audio Engineer uvm. einnehmen und zusammen im Team euer Spiel entwickeln. 
+Das Thema "Web" Game beim [PIT-Hackathon 2018](https://github.com/PIT-Hackathon/2018-Infos) umfasst die erste Phase der Spieleentwicklung, von der Erstellung eines Konzepts bis zum lauffähigen Prototypen. Dabei werdet ihr diverse Rolle wie Game Designer, Game Developer, Visual Artist, Audio Engineer uvm. einnehmen und zusammen im Team euer Spiel entwickeln. 
 
 ## Was ist ein Web Game?
 Ein Web Game ist ein im Browser lauffähiges Spiel und kann ohne Installation auf diversen Geräten (PC, Handy, usw.) gespielt werden. Bei Bedarf lässt sich das Spiel auch in eine Desktop Applikation [verpacken](https://electron.atom.io). Trotz Browser können die Spiele auf die Besonderheiten der Endgeräte reagieren und so z.B. den Neigungssensor im Handy als Lenkrad in das Spiel integrieren.
