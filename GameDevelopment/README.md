@@ -129,25 +129,26 @@ Unity3d ist eine kostenlose (für kleinere Projekte) ausgewachsene GameEngine. U
 Scriptsprache (auch) zum Entwickeln von Computerspielen. Sie bietet einen schnellen unkomplizierten Einstieg in die Spieleprogrammierung und eignet sich hervoragend zum entwickeln von Spiele-Prototypen. Dies ist ein sehr wichtiger Entwicklungsschritt in der Spieleentwicklung der nicht selten über den kommerziellen Erfolg eines Spiels entscheidet.
 
 ##### Links
-
 - Löve2D (2d GameEngine) [https://love2d.org/]
-- Harvard's Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
 
 ### Phaser
 Phaser ist eine Open Source 2D Game Engine um HTML 5 Spiele für den Browser als auch dem Desktop zu entwickeln.
 
-Weiter Infos: [http://phaser.io](http://phaser.io)
+##### Links
+- [http://phaser.io](http://phaser.io)
 
 ### Babylon.js
 Babylon.js ist eine Open Source 3D Game Engine. Die Engine wurde komplett in Typescript geschrieben.
 
-Weiter Infos: [https://www.babylonjs.com](https://www.babylonjs.com)
+##### Links
+- [https://www.babylonjs.com](https://www.babylonjs.com)
 
 ### Three.js
 Wer eine 3D-Anwendung wie ein Spiel ins Internet bringen will, kommt an WebGL kaum vorbei. Doch die Programmierung darin ist umständlich und fehleranfällig. Mit der JavaScript-Bibliothek Three.js gehts viel leichter.
 WebGL bietet dem JavaScript-Entwickler eine Unmenge an Möglichkeiten – von der Darstellung einfacher 3D-Modelle bis hin zur direkten Programmierung des Grafikprozessors. 
 
-Weiter Infos: [https://threejs.org](https://threejs.org)
+##### Links
+- [https://threejs.org](https://threejs.org)
 
 ---
 
