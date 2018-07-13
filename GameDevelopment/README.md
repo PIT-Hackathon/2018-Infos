@@ -46,13 +46,13 @@ Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist ein
 
 ### 2. Code Editor 
 Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
-* Download: [https://code.visualstudio.com](https://code.visualstudio.com)
+* Download: [https://code.visualstudio.com]
 
 ### 3. Unity3d
-* Download: [https://unity3d.com/de/unity/qa/lts-releases](Unity LTS 2017.4.6f1)
+* Download: [https://unity3d.com/de/unity/qa/lts-releases] Unity LTS 2017.4.6f1
 
 ### 4. Lua
-* Download: [Löve2D (2d GameEngine) [https://love2d.org/]
+* Download: Löve2D 2d GameEngine [https://love2d.org/]
 
 
 ---
