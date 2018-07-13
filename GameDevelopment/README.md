@@ -81,6 +81,7 @@ Scriptsprache (auch) zum Entwickeln von Computerspielen. Sie bietet einen schnel
 
 ##### Links
 
+- Löve2D (2d GameEngine) [https://love2d.org/]
 - Harvard's Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
 
 ### Phaser
