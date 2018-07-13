@@ -33,6 +33,25 @@ Augmented Reality, das projizieren von computererzeugten Inhalten in die reale W
 #### Multiplayer
 Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins. Hier findet ihr Resourcen um euch auf den Einstieg in Multiplayer vorzubereiten:
 * Nakama Multiplayer [https://heroiclabs.com/docs/gameplay-multiplayer-realtime/]
+---
+
+## Womit entwickeln wir nachher?
+Wenn du unsere Vorlagen verwendest, dann benötigst du nur folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
+
+### 1. Git - Source Code Verwaltung 
+Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist eine Versionsverwaltung ein Muss und keine Option. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
+* Download: [https://git-scm.com](https://git-scm.com)
+* Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
+* MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
+
+### 2. Code Editor 
+Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
+* Download: [https://code.visualstudio.com](https://code.visualstudio.com)
+
+### 3. Unity3d
+* Download: [https://unity3d.com/de/unity/qa/lts-releases](Unity LTS 2017.4.6f1)
+
+### 4. Lua
 
 
 ---
@@ -93,7 +112,7 @@ Link zum Repo: [https://github.com/games50]
 
 
 
-
+---
 
 ## Gibt es ein Game Engine die ich verwenden kann?
 Es gibt [diverse Game Engines](https://github.com/showcases/javascript-game-engines) mit der ihr euer Game erstellen könnt. Um euch die Auswahl zu erleichtern haben wir verschiedene Engines ausgewählt und entsprechende Vorlagen vorbereitet.
@@ -118,14 +137,10 @@ Phaser ist eine Open Source 2D Game Engine um HTML 5 Spiele für den Browser als
 
 Weiter Infos: [http://phaser.io](http://phaser.io)
 
-
-
 ### Babylon.js
 Babylon.js ist eine Open Source 3D Game Engine. Die Engine wurde komplett in Typescript geschrieben.
 
 Weiter Infos: [https://www.babylonjs.com](https://www.babylonjs.com)
-
-
 
 ### Three.js
 Wer eine 3D-Anwendung wie ein Spiel ins Internet bringen will, kommt an WebGL kaum vorbei. Doch die Programmierung darin ist umständlich und fehleranfällig. Mit der JavaScript-Bibliothek Three.js gehts viel leichter.
@@ -133,10 +148,7 @@ WebGL bietet dem JavaScript-Entwickler eine Unmenge an Möglichkeiten – von de
 
 Weiter Infos: [https://threejs.org](https://threejs.org)
 
-
-
 ---
-
 
 ## Womit entwickeln wir nachher?
 Wenn du unsere Vorlagen verwendest, dann benötigst du nur folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
