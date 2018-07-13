@@ -3,7 +3,10 @@ Das Thema 'Game Development beim [PIT-Hackathon 2018](https://github.com/PIT-Hac
 
 ---
 
-## Einstiegsmöglichkeiten
+## Vorbereitung auf den Hackathon
+
+### Generell
+Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
 #### Für Einsteiger
 Entwicklung von Spieleprototypen mit der Scriptsprache Lua. Dies ermöglich einen unkomplizierten Einstieg in die Programmierung von Computerspielen. Hierzu werden wir euch eine eine Reihe bekannter Games (Pong, Flappy Bird, etc) im SourceCode an die Hand geben, worauf ihr eure eigenen Prototypen entwicklen könnt und den grundlegenden Aufbau von Computerspielen erfahren könnt.
@@ -17,6 +20,7 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 * Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
 * Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
 * Unity Learn [https://unity3d.com/de/learn]
+* Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
 
 ---
 
