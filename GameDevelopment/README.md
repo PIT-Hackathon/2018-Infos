@@ -100,21 +100,14 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 ---
 
-## Gibt es ein Game Engine die ich verwenden kann?
+## Welche GameEngines könnte ich noch verwenden?
 Es gibt [diverse Game Engines](https://github.com/showcases/javascript-game-engines) mit der ihr euer Game erstellen könnt. Um euch die Auswahl zu erleichtern haben wir verschiedene Engines ausgewählt und entsprechende Vorlagen vorbereitet.
 
-### Unity3d
-Unity3d ist eine kostenlose (für kleinere Projekte) ausgewachsene GameEngine. Unity3d ist eine der am meisten verwendeten GameEngine im professionellen und kommerziellen Einsatz. Mit Ihr lassen sich von einfachen Hobbyprojekten bis hin zu AAA-Titeln alle Arten von Spielen entwickeln. 
+### PlayCanvas
+PlayCanvas ist eine komplett auf JavaScript basiserende GameEngine die durchgehend webbasierend ist, d.h. sogar der Editor wird gleich im Web mit angeboten. Man braucht nichts zu installieren und kann gleiche loslegen (wenn man weiß, wie es geht).
 
-##### Links
-- Unity [https://unity3d.com/de]
-- Unity lernen [https://unity3d.com/de/learn]
-
-### Lua
-Scriptsprache (auch) zum Entwickeln von Computerspielen. Sie bietet einen schnellen unkomplizierten Einstieg in die Spieleprogrammierung und eignet sich hervoragend zum entwickeln von Spiele-Prototypen. Dies ist ein sehr wichtiger Entwicklungsschritt in der Spieleentwicklung der nicht selten über den kommerziellen Erfolg eines Spiels entscheidet.
-
-##### Links
-- Löve2D (2d GameEngine) [https://love2d.org/]
+#### Links
+[https://playcanvas.com/](https://playcanvas.com/)
 
 ### Phaser
 Phaser ist eine Open Source 2D Game Engine um HTML 5 Spiele für den Browser als auch dem Desktop zu entwickeln.
