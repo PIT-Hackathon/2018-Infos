@@ -16,7 +16,7 @@ Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebun
 Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
 * Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
 * Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
-* Unity Learn [Unity lernen [https://unity3d.com/de/learn]]
+* Unity Learn [https://unity3d.com/de/learn]
 
 ---
 
