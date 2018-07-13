@@ -90,28 +90,13 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 ### Lua-Scripting 
 Link zum Repo: [https://github.com/games50]
 
+### Nakama
+[Authorisation](https://github.com/BernhardRubow/022_nakama_v6]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Unity
+[Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
+[Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
+[Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
 
 ---
 
@@ -149,36 +134,6 @@ WebGL bietet dem JavaScript-Entwickler eine Unmenge an Möglichkeiten – von de
 
 ##### Links
 - [https://threejs.org](https://threejs.org)
-
----
-
-## Womit entwickeln wir nachher?
-Wenn du unsere Vorlagen verwendest, dann benötigst du nur folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
-
-### 1. Git - Source Code Verwaltung 
-Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist eine Versionsverwaltung ein Muss und keine Option. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
-* Download: [https://git-scm.com](https://git-scm.com)
-* Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
-* MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
-
-### 2. Code Editor 
-Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
-* Download: [https://code.visualstudio.com](https://code.visualstudio.com)
-
-### 3. Unity3d
-* Download: [https://unity3d.com/de/unity/qa/lts-releases](Unity LTS 2017.4.6f1)
-
-### 4. Lua
-
-### 5. Node.js und NPM
-Node.js werden wir zum "kompilieren" oder besser [transpilieren](https://en.wikipedia.org/wiki/Source-to-source_compiler) des Source Codes verwenden. Dabei kommen Tools wie [Babel](https://babeljs.io) oder [Typescript](https://www.typescriptlang.org) zum Einsatz. Diese Tools und auch die notwendigen Bibliotheken für euer Projekt findet ihr in der [NPM Registry](https://www.npmjs.com).
-
-Download: [https://nodejs.org](https://nodejs.org)
-
-### 6. Webpack [Optional/Intern]
-Webpack ist ein Module-Bundler und gleichzeitig Build-System. Das heißt es fasst mehrere Module (z.B. NPM Pakete) in zusammen und das Build-System konvertiert die Module in ein für den Browser verständliches Format. Dazu gibt es noch einen passenden Server mit dem Ihr euer Spiel lokal hosten könnt. Webpack überwacht dabei den gesamten Quellcode und erstelle automatisch eine neue Version sobald eine Änderung festgestellt wurde. 
-
-Weiter Infos findet ihr im Git Repository: [https://github.com/webpack/webpack](https://github.com/webpack/webpack)
 
 ---
 
