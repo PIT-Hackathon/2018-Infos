@@ -7,9 +7,16 @@ Das Thema 'Game Development beim [PIT-Hackathon 2018](https://github.com/PIT-Hac
 
 #### Für Einsteiger
 Entwicklung von Spieleprototypen mit der Scriptsprache Lua. Dies ermöglich einen unkomplizierten Einstieg in die Programmierung von Computerspielen. Hierzu werden wir euch eine eine Reihe bekannter Games (Pong, Flappy Bird, etc) im SourceCode an die Hand geben, worauf ihr eure eigenen Prototypen entwicklen könnt und den grundlegenden Aufbau von Computerspielen erfahren könnt.
+Mit diesem tollen Kurs könnte ihr euch auf diesen Bereich in den Ferien vorbereiten:
+* Harvard's Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
+
 
 #### Fortgeschrittene
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
+Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
+* Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
+* Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
+* Unity Learn [Unity lernen [https://unity3d.com/de/learn]]
 
 ---
 
@@ -20,7 +27,9 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 Augmented Reality, das projizieren von computererzeugten Inhalten in die reale Welt könnte sich als ein sehr interessantes Anwendungsgebiet für Spiele und andere Anwendungen. Nicht zuletzt durch Spiele wie PokemonGo etc ist dieses Thema in aller Munde. Wir laden euch ein, euch in diesem Bereich kreative zu betätigen. Vorbereitet haben wir uns dabei auf die Arbeit mit dem Vuforia-Plugin unter Unity  
 
 #### Multiplayer
-   Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins
+Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins. Hier findet ihr Resourcen um euch auf den Einstieg in Multiplayer vorzubereiten:
+* Nakama Multiplayer [https://heroiclabs.com/docs/gameplay-multiplayer-realtime/]
+
 
 ---
 
