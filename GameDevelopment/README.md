@@ -88,7 +88,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 ## SourceCode-Repositories
 ### Lua-Scripting 
-* [SourceCode CS50 Game Development] (https://github.com/games50)
+* [SourceCode CS50 Game Development](https://github.com/games50)
 
 ### Nakama
 * [Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
