@@ -8,4 +8,4 @@ Infos zu den einzelnen Themen findest Du auf den folgenden Seiten
 - [IoT](IoT/README.md)
 - [KI](KI/README.md)
 - [MobileApp](MobileApp/README.md)
-- [WebGame](WebGame/README.md)
+- [GameDevelopment](GameDevelopment/README.md)
