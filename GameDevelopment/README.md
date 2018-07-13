@@ -88,15 +88,15 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 
 ## SourceCode-Repositories
 ### Lua-Scripting 
-Link zum Repo: [https://github.com/games50]
+* [SourceCode CS50 Game Development] (https://github.com/games50)
 
 ### Nakama
-[Authorisation](https://github.com/BernhardRubow/022_nakama_v6]
+* [Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
 
 ### Unity
-[Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
-[Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
-[Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
+* [Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
+* [Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
+* [Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
 
 ---
 
