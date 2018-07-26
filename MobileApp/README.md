@@ -34,7 +34,7 @@ Node.js ist eine JavaScript-Laufzeitumgebung und ermöglicht das Ausführen von 
 
 #### Ionic 3
 Ionic ist das eigentliche Framework, das wir für die App-Entwicklung nutzen. Jedoch kann man Ionic **nicht direkt installieren** wie die anderen Programme hier in der Liste. Stattdessen wird es über den Node PackageManager (npm) installiert. Eine Anleitung (inkl. Cordova) findest Du unter:
-- http://ionicframework.com/getting-started/
+- http://ionicframework.com/getting-started//#cli
 
 ### Tutorials und Kurse
 - [Einleitung von Ionic selbst](https://ionicframework.com/getting-started/#cli)
