@@ -1,5 +1,5 @@
 # Mobile App
-Eines der Themen für den [PIT-Hackathon 2017](https://github.com/PIT-Hackathon/2017-Infos) ist die Entwicklung von mobilen Apps (also Apps für das Smartphone) und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
+Eines der Themen für den [PIT-Hackathon 2018](https://github.com/PIT-Hackathon/2018-Infos) ist die Entwicklung von mobilen Apps (also Apps für das Smartphone) und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
 
 ## Was ist App-Entwicklung?
 Eine der Herausforderungen, wenn man eine App entwickeln möchte, sind die verschiedenen Plattformen - also vor allem Android und iOS/iPhone. Wenn man mit den vorgesehen Technologien entwickelt (für Android ist das Java, für iOS ist das Swift), dann läuft die App nur auf der ausgewählten Ziel-Plattform.
@@ -16,7 +16,7 @@ Ionic setzt auf TypeScript als Programmiersprache, die Screens werden in HTML ge
 
 
 ## Das hört sich schon mal gut an - wie geht es weiter?
-Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon mal bei den [anderen Themen](https://github.com/PIT-Hackathon/2017-Infos), ob noch eine Alternative für Dich dabei ist.
+Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon mal bei den [anderen Themen](https://github.com/PIT-Hackathon/2018-Infos), ob noch eine Alternative für Dich dabei ist.
 
 ## Kann ich mich schon irgendwie vorbereiten?
 Eine Vorbereitung ist nicht notwendig, erlaubt Dir aber natürlich an dem Wochenende tiefer ins Thema einzusteigen. Falls Du also schonmal ins Thema reinschnuppern möchtest, findest Du hier ein paar Links.
