@@ -35,6 +35,8 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 
 ## Themengebiete
 Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für diesen Hackathon die Bereiche :
+#### Spieleentwicklung
+Einstieg in die Entwicklung von Computerspielen mit der Unity3d GameEngine.
 
 #### Augmented Reality    
 Augmented Reality, das projizieren von computererzeugten Inhalten in die reale Welt könnte sich als ein sehr interessantes Anwendungsgebiet für Spiele und andere Anwendungen. Nicht zuletzt durch Spiele wie PokemonGo etc ist dieses Thema in aller Munde. Wir laden euch ein, euch in diesem Bereich kreative zu betätigen. Vorbereitet haben wir uns dabei auf die Arbeit mit dem Vuforia-Plugin unter Unity  
@@ -42,6 +44,22 @@ Augmented Reality, das projizieren von computererzeugten Inhalten in die reale W
 #### Multiplayer
 Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Bereich den Programmierern mit 'schwarzem Gürtel' vorbehalten. Doch auch hier bringt der Trend zu OpenSource immer einfacher zu benutzende Tools hervor, wodurch die Entwicklung von Multiplayer-Spielen zwar nicht 'supereinfach' wird (hier gibt es immer noch genug zu beachten), aber doch wesentlich verständlicher. Wir bieten euch an, euch bei der Implementierung eines Multiplayer-Spiele-Prototyps zu unterstützen. Und zwar unter Verwendung des Open Source Nakama-Multiplayer Server und des entsprechenden Unity-Plugins. Hier findet ihr Resourcen um euch auf den Einstieg in Multiplayer vorzubereiten:
 * Nakama Multiplayer [https://heroiclabs.com/docs/gameplay-multiplayer-realtime/]
+
+---
+
+## SourceCode-Repositories
+### Lua-Scripting 
+* [SourceCode CS50 Game Development](https://github.com/games50)
+
+### Nakama
+* [Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
+
+### Unity
+* [Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
+* [Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
+* [Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
+* [Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
+
 ---
 
 ## Womit entwickeln wir nachher?
@@ -92,21 +110,6 @@ Der Producer steuert und überwacht den Erstellungsprozess des Spiels (auch Fina
 
 ### QA Tester
 Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
-
----
-
-## SourceCode-Repositories
-### Lua-Scripting 
-* [SourceCode CS50 Game Development](https://github.com/games50)
-
-### Nakama
-* [Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
-
-### Unity
-* [Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
-* [Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
-* [Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
-* [Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
 
 ---
 
