@@ -22,6 +22,15 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 * Unity Learn [https://unity3d.com/de/learn]
 * Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
 
+### Anlegen von Useraccounts
+- Vor Beginn des Hackathons einen Unity Account anlegen.[https://unity3d.com/de] 
+- Vor Beginn des Hackathons einen GitHub Account anlegen. [https://github.com/]
+
+### Installation von Software (wenn eigener Rechner verwendet wird)
+- Unity 2017 installieren: [https://unity3d.com/de/unity/qa/lts-releases]
+- Git installieren: [https://git-scm.com/]
+
+
 ---
 
 ## Themengebiete
@@ -97,6 +106,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 * [Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
 * [Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
 * [Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
+* [Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
 
 ---
 
