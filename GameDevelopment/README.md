@@ -59,6 +59,7 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 * [Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
 * [Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
 * [Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
+* [Pathfinding with NavMesh](https://github.com/BernhardRubow/example_unity_0002_nav_mesh)
 
 ---
 
