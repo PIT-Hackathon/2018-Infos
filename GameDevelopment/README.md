@@ -52,6 +52,7 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 * [SourceCode CS50 Game Development](https://github.com/games50)
 
 ### Nakama
+* [Level 200 - Simple Multiplayer Game](https://github.com/BernhardRubow/example_nakama_002_multiplayer)
 * [Level 200 - Simple Chat Server](https://github.com/BernhardRubow/example_nakama_001_simple_chat)
 * [Level 200 - Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
 
