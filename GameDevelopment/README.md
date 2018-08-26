@@ -63,6 +63,7 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 * [Level 100 - Centipede-Prototyp](https://github.com/BernhardRubow/example_unity_0003_centipede)
 * [Level 100 - Animationen in Unity](https://github.com/BernhardRubow/example_unity_0001_door_with_animations)
 * [Level 100 - Pathfinding with NavMesh](https://github.com/BernhardRubow/example_unity_0002_nav_mesh)
+* [Tool - ScriptTemplateFile](https://gist.github.com/BernhardRubow/e088a4e43fc36245bca067b1fc48a86e)
 
 ---
 
