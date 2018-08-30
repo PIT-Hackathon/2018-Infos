@@ -56,6 +56,9 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 * [Level 200 - Simple Chat Server](https://github.com/BernhardRubow/example_nakama_001_simple_chat)
 * [Level 200 - Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
 
+### Vuforia
+* [Level 200 - Getting Started](https://github.com/Bakuenjin/VuforiaTest)
+
 ### Unity
 * [Level 300 - Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
 * [Level 300 - Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
