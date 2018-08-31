@@ -37,6 +37,12 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
   * [C#] von Microsoft
   * [Debugger for Unity] von Unity Technologies
   * [Unity Tools] von Tobiah Zarlez
+  
+### Zum Testen von Multiplayer auf eigenem Rechner
+* VM-Ware Player [[Download]](https://my.vmware.com/de/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
+* Ubuntu 18.04 Server (wichtig: Docker bei Installation gleich mitinstallieren) [[Download]](https://www.ubuntu.com/download/server)
+* Docker-Compose [[Installationsanleitung]](https://docs.docker.com/compose/install/)
+* Nakama & CockroachDB als Docker Container starten [[Docker-Quickstart]](https://heroiclabs.com/docs/install-docker-quickstart/)
 ---
 
 ## Themengebiete
