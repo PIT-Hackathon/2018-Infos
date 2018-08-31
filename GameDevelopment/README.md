@@ -22,15 +22,21 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 * Unity Learn [https://unity3d.com/de/learn]
 * Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
 
-### Anlegen von Useraccounts
-- Vor Beginn des Hackathons einen Unity Account anlegen.[https://unity3d.com/de] 
-- Vor Beginn des Hackathons einen GitHub Account anlegen. [https://github.com/]
+---
+## Vorbereiten des Rechners für die Teilnahme am Hackathon (im Bereich GameDevelopment)
 
-### Installation von Software (wenn eigener Rechner verwendet wird)
-- Unity 2017 installieren: [https://unity3d.com/de/unity/qa/lts-releases]
-- Git installieren: [https://git-scm.com/]
+### Notwendige Useraccounts anlegen
+* Vor Beginn des Hackathons einen Unity Account anlegen.[https://unity3d.com/de] 
+* Vor Beginn des Hackathons einen GitHub Account anlegen. [https://github.com/]
 
-
+### Installation von Software
+* Unity LTS-Version 2017.4.10f1 installieren: [[Download]](https://download.unity3d.com/download_unity/f2cce2a5991f/UnityDownloadAssistant-2017.4.10f1.exe?_ga=2.140752240.375123843.1535747211-1834572736.1528185000)
+* Git installieren: [[Download]](https://git-scm.com/)
+* Visual Studio Code installieren: [[Download]](https://code.visualstudio.com/)
+* In Visual Studio Code folgende Plugins installieren
+  * [C#] von Microsoft
+  * [Debugger for Unity] von Unity Technologies
+  * [Unity Tools] von Tobiah Zarlez
 ---
 
 ## Themengebiete
