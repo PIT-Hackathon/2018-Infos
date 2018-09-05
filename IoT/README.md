@@ -1,6 +1,6 @@
 # IoT - Internet of Things
 
-Eines der Themen für den [PIT-Hackathon 2017](https://github.com/PIT-Hackathon/2017-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
+Eines der Themen für den [PIT-Hackathon 2018](https://github.com/PIT-Hackathon/2018-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
 
 ## Was ist IoT?
 
@@ -43,7 +43,8 @@ Die NodeMCU Hardware ist eine Mikrocontroller-Plattform ähnlich zum Arduino. Da
 Damit Du Deine IoT Idee umsetzen kannst, haben wir versucht, eine Auwahl an Sensoren und Aktoren zu treffen, die Dir und den anderen Gruppen während des Hackathons zur Verfügung stehen. Schau Dir doch mal die Liste an, vielleicht hast Du ja eine gute Idee, was für ein Projekt man mit den Bauteilen umsetzen könnte. Die genauen Bezeichnungen der Module können Dir helfen, mehr Informationen zu den einzelnen Komponenten zu finden.
 
 - NFC Module (RC522 RFID-Modul) und passende NFC Tags zur kontaktlosen Kommunikation ([Arduino Bibliothek](https://github.com/miguelbalboa/rfid))
-- TFT Displays (240x320, ILI9341 kompatibel)
+- ESP32
+- ~~TFT Displays (240x320, ILI9341 kompatibel)~~
 - Adafruit NeoPixel Stick
 - Temperatur- / Luftfeuchtigkeitssensoren (DHT22)
 - Gyroskop (Lagesensor, der Bewegungen in unterschiedliche Richtungen erkennen kann - ITG3205)
