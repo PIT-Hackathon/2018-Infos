@@ -221,6 +221,9 @@ Vorlagen auf GitHub:
     - [Adobe Color](https://color.adobe.com/de/create/color-wheel/)
     - [Color Lovers](http://www.colourlovers.com/)
 - Audio Assets
+    - [Übersicht über Seiten mit freier Musik für Spiele](https://v-play.net/game-resources/free-music-for-games)
+    - [Übersicht über Seiten mit freien SoundFX für Spiele](https://v-play.net/game-resources/16-sites-featuring-free-game-sounds#_noiseforfun.com/)
+    - [ZapSplat Free Effects and Music](https://www.zapsplat.com)
     - [Flashkit](http://www.flashkit.com/soundfx/)
     - [Indie Game Music](http://indiegamemusic.com/)
     - [Jamendo](http://www.jamendo.com/)
