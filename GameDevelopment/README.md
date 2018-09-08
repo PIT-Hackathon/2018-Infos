@@ -217,6 +217,9 @@ Vorlagen auf GitHub:
     - [CG Textures](http://www.cgtextures.com/)
     - [Texture King](http://www.textureking.com)
     - [Stock Textures](http://stocktextures.com/)
+- Farbgestaltung
+    - [Adobe Color](https://color.adobe.com/de/create/color-wheel/)
+    - [Color Lovers](http://www.colourlovers.com/)
 - Audio Assets
     - [Flashkit](http://www.flashkit.com/soundfx/)
     - [Indie Game Music](http://indiegamemusic.com/)
