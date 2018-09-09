@@ -122,6 +122,9 @@ Als Game Developer setzt ihr die Ideen des Game Designer technisch um. Dafür we
 ### Visual Artist
 Der Visual Artist erstellt alle visuallen Element, wie 3D Modelle, Texturen, Materialien und Effekte, für das Spiel.
 
+### Post Processing Artist
+Der Post Processing Artist kümmert sich um alle Effect, die nicht direkt im Spiel implementiert werden, sondern er nachdem der aktuelle Frame berechnet worden ist (Post Processing) auf das fertige FrameBild berechnet werden, wie z.B. Color Grading, Motion Blur und viele andere Effekte.
+
 ### Audio Engineer
 Der Audio Engineer ist vergleichbar mit dem Visual Artist, nur das dieser statt Grafiken Geräusche erstellt. Dazu gehören neben Effekten auch die Hintergrund Musik, der Sound Track und vertonte Dialoge.
 
