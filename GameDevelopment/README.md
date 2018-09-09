@@ -100,7 +100,11 @@ Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am best
 ### 3. Unity3d
 * Download: [https://unity3d.com/de/unity/qa/lts-releases] Unity LTS 2017.4.6f1
 
-### 4. Lua
+### 4. Trello
+Um im Team zusammenarbeiten zu können und immer überblick über das Projekt zu haben, setzen wir ein sehr einfaches aber extrem mächtiges Werkzeug ein. Trello ist ein sog. Kanban-Board mit dem man auf unkomplizierte Weise ein Projekt steuern kann. Diese Tool ist kostenlos.
+
+### 5. Lua
+Wenn ihr nicht mit Unity arbeiten möchtet, gibt es noch eine sehr viel einfacher gestrickte GameEngine mit der Ihr Spiele entwickeln könnt. Diese setzt auf die Programmiersprache Lua. Hier sind die Mentoren aber nicht ganz so drauf vorbereitet.
 * Download: Löve2D 2d GameEngine [https://love2d.org/]
 
 
