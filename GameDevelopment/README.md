@@ -26,8 +26,9 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 ## Vorbereiten des Rechners für die Teilnahme am Hackathon (im Bereich GameDevelopment)
 
 ### Notwendige Useraccounts anlegen
-* Vor Beginn des Hackathons einen Unity Account anlegen.[https://unity3d.com/de] 
-* Vor Beginn des Hackathons einen GitHub Account anlegen. [https://github.com/]
+* Vor Beginn des Hackathons einen Unity Account anlegen. [Unity3d](https://unity3d.com/de)
+* Vor Beginn des Hackathons einen GitHub Account anlegen. [GitHub](https://github.com/)
+* Ver Beginn des Hackathons einen Trello Account anlegen. [Trello](https://trello.com)
 
 ### Installation von Software
 * Unity LTS-Version 2017.4.10f1 installieren: [[Download]](https://download.unity3d.com/download_unity/f2cce2a5991f/UnityDownloadAssistant-2017.4.10f1.exe?_ga=2.140752240.375123843.1535747211-1834572736.1528185000)
