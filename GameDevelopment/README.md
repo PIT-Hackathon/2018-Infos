@@ -71,6 +71,7 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 * [Level 200 - Authorisation](https://github.com/BernhardRubow/022_nakama_v6)
 
 ### Vuforia
+* [Level 200 - Simple Object on Image Target](https://github.com/BernhardRubow/example_vuforia_001_simple_object)
 * [Level 200 - Getting Started](https://github.com/Bakuenjin/VuforiaTest)
 * [Level 200 - Camera Focus Controller](https://gist.github.com/BernhardRubow/279221bc57c9c298661a3af8f0baaf40)
 
