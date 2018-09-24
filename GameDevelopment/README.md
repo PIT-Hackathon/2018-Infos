@@ -72,6 +72,7 @@ Der heilige Gral im Bereich der Spieleprogrammierung. Jahrelang war dieser Berei
 
 ### Vuforia
 * [Level 200 - Getting Started](https://github.com/Bakuenjin/VuforiaTest)
+* [Level 200 - Camera Focus Controller](https://gist.github.com/BernhardRubow/279221bc57c9c298661a3af8f0baaf40)
 
 ### Unity
 * [Level 300 - Brettspiel](https://github.com/BernhardRubow/020_boardgame_unity)
