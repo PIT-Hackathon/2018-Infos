@@ -216,6 +216,7 @@ Vorlagen auf GitHub:
     - [coursera: Game Design and Development Specialization](https://www.coursera.org/specializations/game-development)
     - [coursera: Game Design Art and Concepts Specialization](https://www.coursera.org/specializations/game-design)
     - [und natürlich: ExtraCredits](https://www.youtube.com/user/ExtraCreditz)
+    - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
 - Tools
     - [Jesse Schell: A book of lense (Android App)](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=de)
     - [MDA Framework: A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
